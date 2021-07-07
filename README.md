@@ -1,26 +1,26 @@
-#BOOTSTRAP BOILERPLATE
+# BOOTSTRAP BOILERPLATE
 ---
-##Description
+## Description
 > The basic skeleton of a readme file in the bootstrap practice project.
 ---
-##Prerequisites
+## Prerequisites
    > - websites for beginners
    > - mobile friendly websites
    > - know what readme is
 ---
-##Installation
+## Installation
 > There is no installation necessary
 ---
 
-##Contributing
+## Contributing
 > Issue tracker: github.com/project/issues
 ---
 
-##Licensing
+## Licensing
 > Something about licenses
 ---
 
-##Citations
+## Citations
   >  1. Site it this way
   >  2. Or do it this way
   >  3. Or a third way I guess
