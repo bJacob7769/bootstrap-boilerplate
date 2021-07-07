@@ -9,19 +9,19 @@
    > - know what readme is
 ---
 ##Installation
-There is no installation necessary
+> There is no installation necessary
 ---
 
 ##Contributing
-    Issue tracker: github.com/project/issues
+> Issue tracker: github.com/project/issues
 ---
 
 ##Licensing
-    Something about licenses
+> Something about licenses
 ---
 
 ##Citations
-    1. Site it this way
-    2. Or do it this way
-    3. Or a third way I guess
+  >  1. Site it this way
+  >  2. Or do it this way
+  >  3. Or a third way I guess
 ---
