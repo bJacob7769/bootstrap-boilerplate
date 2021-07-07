@@ -1,12 +1,12 @@
 #BOOTSTRAP BOILERPLATE
 ---
 ##Description
-    The basic skeleton of a readme file in the bootstrap practice project.
+> The basic skeleton of a readme file in the bootstrap practice project.
 ---
 ##Prerequisites
-    - websites for beginners
-    - mobile friendly websites
-    - know what readme is
+   > - websites for beginners
+   > - mobile friendly websites
+   > - know what readme is
 ---
 ##Installation
 There is no installation necessary
